@@ -19,7 +19,7 @@ This device will require internet access at all times to function properly. The 
 ## Remote control over WiFi
 1. Power on the Rick Flash and wait until the song stops playing.
 2. Open the Blynk app 
-3. Selec the play button to start the connection
+3. Select the play button to start the connection
 4. Click your Button
 5. Watch the ESP start playing the Rick Roll Tune
 
