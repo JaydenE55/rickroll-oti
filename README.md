@@ -34,3 +34,4 @@ ESP8266 Board, (File-Preferneces-Additional Boards Manager URL) - http://arduino
 | Qty | Description                       | LCSC #  | Link                                                                                                                    | 
 | 1   | ESP-12E                           | C89297  | https://www.amzn.com/dp/B08B4P67N8/                                                                                     | 
 | 1   | Piezo Buzzer                      | C94599  | https://www.amzn.com/dp/B07Q42WH3C                                                                                      | 
+|-----|-----------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------| 
