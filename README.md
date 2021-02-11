@@ -24,13 +24,15 @@ This device will require internet access at all times to function properly. The 
 5. Watch the ESP start playing the Rick Roll Tune
 
 ## Requires Dependincies
-ESP8266 Libraries - https://github.com/esp8266/Arduino
-Blynk Library - https://github.com/blynkkk/blynk-library
-ESP8266 Board, (File-Preferneces-Additional Boards Manager URL) - http://arduino.esp8266.com/stable/package_esp8266com_index.json
+|                    |                                                                 | 
+|--------------------|-----------------------------------------------------------------| 
+| ESP8266 Libraries  | https://www.amzn.com/dp/B08B4P67N8/                             | 
+| Blynk Library      | https://www.amzn.com/dp/B07Q42WH3C                              | 
+| ESP8266 Board      | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
 ## Bill of Materials
 |     |                                   |                                                                                                                         | 
 |-----|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------| 
 | Qty | Description                       | Link                                                                                                                    | 
-| 1   | ESP8266/12E                       | https://www.amzn.com/dp/B08B4P67N8/                                                                                                 | 
-| 1   | Piezo Buzzer                      | https://www.amzn.com/dp/B07Q42WH3C                                                   | 
+| 1   | ESP8266/12E                       | https://www.amzn.com/dp/B08B4P67N8/                                                                                     | 
+| 1   | Piezo Buzzer                      | https://www.amzn.com/dp/B07Q42WH3C                                                                                      | 
