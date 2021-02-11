@@ -9,7 +9,7 @@ RickRoll-OTI allows you to connect to an ESP8266 using Blynk and trigger a buzze
 5. Click that button and change the output pin to V1.
 6. Download the code and the required dependencies located below.
 7. Edit the Auth Key, WiFi Name, and Password, if needed also change the buzzer pin.
-2. Then flash the ESP with the edited code.
+8. Then flash the ESP with the edited code, and also plug your buzzer, speaker, or LED into pin 13 and GND.
 9. The ESP should restart and start playing the tune.
 10. Wait for it to stop then open the Blynk app and click the play icon, then click your button to trigger the tune wirelessly from your smartphone.
 
