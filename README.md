@@ -26,8 +26,8 @@ This device will require internet access at all times to function properly. The 
 ## Requires Dependincies
 |                    |                                                                 | 
 |--------------------|-----------------------------------------------------------------| 
-| ESP8266 Libraries  | https://www.amzn.com/dp/B08B4P67N8/                             | 
-| Blynk Library      | https://www.amzn.com/dp/B07Q42WH3C                              | 
+| ESP8266 Libraries  | https://github.com/esp8266/Arduino                              | 
+| Blynk Library      | https://github.com/blynkkk/blynk-library                        | 
 | ESP8266 Board      | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
 
 ## Bill of Materials
