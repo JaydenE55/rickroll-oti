@@ -24,17 +24,17 @@ This device will require internet access at all times to function properly. The 
 5. Watch the ESP start playing the Rick Roll Tune
 
 ## Requires Dependincies
-|                    |                                                                 | 
 |--------------------|-----------------------------------------------------------------| 
 | ESP8266 Libraries  | https://github.com/esp8266/Arduino                              | 
 | Blynk Library      | https://github.com/blynkkk/blynk-library                        | 
 | ESP8266 Board      | http://arduino.esp8266.com/stable/package_esp8266com_index.json |
+|--------------------|-----------------------------------------------------------------|
 Note The Libraries are also in the project files, all you will have to do is move the contents off the "Dependencies" folder to the place you installed Arduino to.
 The Board will have to be added separately in (File-Preferences-Additional Boards Manager URLs), copy the link into that text area.
 
 ## Bill of Materials
-|     |                                   |                                                                                                                         | 
-|-----|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------| 
-| Qty | Description                       | Link                                                                                                                    | 
-| 1   | ESP8266/12E                       | https://www.amzn.com/dp/B08B4P67N8/                                                                                     | 
-| 1   | Piezo Buzzer                      | https://www.amzn.com/dp/B07Q42WH3C                                                                                      | 
+|-----|-----------------------------------|-------------------------------------|
+| Qty | Description                       | Link                                |
+| 1   | ESP8266/12E                       | https://www.amzn.com/dp/B08B4P67N8/ |
+| 1   | Piezo Buzzer                      | https://www.amzn.com/dp/B07Q42WH3C  |
+|-----|-----------------------------------|-------------------------------------|
