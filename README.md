@@ -2,8 +2,8 @@
 RickRoll-OTI allows you to connect to an ESP8266 using Blynk and trigger a buzzer that plays "Never Gonna Give you Up" By Rick Astley.
 
 ## Getting Started
-1. Download the Blynk App from the Google Play or app Store and install it.
-2. Create an account.
+1. Download the Blynk App from the Google Play or App Store and install it.
+2. Create an account. 
 3. Create a new project, once youve created your project you shoulve been emailed an authorization key, save that for later.
 4. Click the + button on the top right and add a button.
 5. Click that button and change the output pin to V1.
