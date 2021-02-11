@@ -24,8 +24,6 @@ This device will require internet access at all times to function properly. The 
 5. Watch the ESP start playing the Rick Roll Tune
 
 ## Requires Dependencies
-Note The Libraries are also in the project files, all you will have to do is move the contents of the "Dependencies" folder to the place you installed Arduino.
-The Board will have to be added separately in (File-Preferences-Additional Boards Manager URLs), copy the link into that text area.
 |                    |                                                                 |
 |--------------------|-----------------------------------------------------------------| 
 | ESP8266 Libraries  | https://github.com/esp8266/Arduino                              | 
