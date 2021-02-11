@@ -29,9 +29,8 @@ Blynk Library - https://github.com/blynkkk/blynk-library
 ESP8266 Board, (File-Preferneces-Additional Boards Manager URL) - http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ## Bill of Materials
-|                                                                                                                                                                             |
-|-----|-----------------------------------|---------|-------------------------------------------------------------------------------------------------------------------------| 
-| Qty | Description                       | LCSC #  | Link                                                                                                                    | 
-| 1   | ESP-12E                           | C89297  | https://www.amzn.com/dp/B08B4P67N8/                                                                                     | 
-| 1   | Piezo Buzzer                      | C94599  | https://www.amzn.com/dp/B07Q42WH3C                                                                                      | 
-
+|     |                                   |                                                                                                                         | 
+|-----|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------| 
+| Qty | Description                       | Link                                                                                                                    | 
+| 1   | ESP8266/12E                       | https://www.amzn.com/dp/B08B4P67N8/                                                                                                 | 
+| 1   | Piezo Buzzer                      | https://www.amzn.com/dp/B07Q42WH3C                                                   | 
