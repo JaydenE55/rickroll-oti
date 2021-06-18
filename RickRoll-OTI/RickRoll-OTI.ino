@@ -111,7 +111,8 @@ char pass[] = "WiFi_Pass";
 // change this to make the song slower or faster
 int tempo = 115;
 
-// Change 13 to whatever gpio pin you want for the buzzer, speaker, or led
+// Change 13 to whatever gpio pin you want for the buzzer, speaker, or led.
+// Default pin is 13.
 int buzzer = 13;
 
 // notes of the moledy followed by the duration.
@@ -167,7 +168,7 @@ void setup()
 
 }
 
-// This function plays the song
+// This function plays the song.
 void rickroll() {
 Serial.print("Rick Roll Started...");
 
@@ -208,9 +209,10 @@ void loop()
 // This function will be called every time button Widget
 // in Blynk app writes values to the Virtual Pin V1
 // Note it can only be used with virtual pins, if you want 
-// change V1 to whatever Virtual pin you want to use
+// change V1 to whatever Virtual pin you want to use.
+// Default is V1.
 BLYNK_WRITE(V1) {
- int pinValue = param.asInt(); // Assigning incoming value from pin V5 to a variable
+ int pinValue = param.asInt(); // Assigning incoming value from pin V1 to a variable
  Serial.println(pinValue);
  if(pinValue == 1) {
     rickroll();
