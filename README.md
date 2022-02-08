@@ -1,6 +1,9 @@
 # RickRoll-OTI (Over The Internet)
 RickRoll-OTI allows you to connect to an ESP8266 using Blynk and trigger a buzzer that plays "Never Gonna Give you Up" By Rick Astley.
 
+## Deprecated
+With the migration to Blynk.cloud, it would be very difficult and time comsuming to convert this project to the new platform, so I am deeming the project dead.
+
 ## Getting Started
 1. Download the Blynk App from the Google Play or App Store and install it.
 2. Create an account. 
